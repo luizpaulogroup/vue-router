@@ -1,24 +1,45 @@
-# vue-router
+<h1 align="center">
+    <img alt="Vue logo" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/vue.png" />
+    <br>
+    Vue Router Configure
+</h1>
 
-## Project setup
-```
-yarn install
+<h4 align="center">Vue</h4>
+
+<p align="center">
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+## :rocket: Technologies
+
+This project was developed with the technologies:
+
+-  [Visual Studio Code](https://code.visualstudio.com/)
+-  [Vue CLI](https://cli.vuejs.org/)
+-  [Vue](https://vuejs.org/)
+-  [Vue Router](https://router.vuejs.org/)
+-  [Fontawesome](https://fontawesome.com/icons)
+
+## :information_source: How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node](https://nodejs.org/en/) or [Yarn](https://yarnpkg.com/). From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/luizpaulogroup/vue-router
+
+# Go into the repository
+$ cd vue-router
+
+# Install dependencies
+$ yarn install
+
+# Run the app browser
+$ yarn run serve
+
 ```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+---
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Made with :heart: by Luiz Paulo :wave: [Get in touch!](https://www.linkedin.com/in/luiz-paulo/)
