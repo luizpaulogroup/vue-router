@@ -23,7 +23,7 @@ This project was developed with the technologies:
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node](https://nodejs.org/en/) or [Yarn](https://yarnpkg.com/). From your command line:
+To clone and run this application, you'll need [Vue CLI](https://cli.vuejs.org/), [Npm](https://www.npmjs.com/get-npm) or [Yarn](https://yarnpkg.com/). From your command line:
 
 ```bash
 # Clone this repository
