@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Vue logo" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/vue.png" />
+    <img alt="Vue logo" width="25px" height="25px" src="https://github.com/luizpaulogroup/github-readme/blob/master/images/vue.png" />
     <br>
     Vue Router Configure
 </h1>
